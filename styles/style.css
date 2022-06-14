@@ -138,9 +138,11 @@ a{
     justify-content: center;
     margin-top: 50px;
     gap: 20px;
+    max-width: 1920px;
 }
 .map{
     margin-top: 50px;
+    max-width: 1920px;
 }
 footer{
     display: flex;
